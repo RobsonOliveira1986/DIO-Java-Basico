@@ -23,3 +23,7 @@
 hs_err_pid*
 tipos-e-variaveis/.vscode/settings.json
 operadores/.vscode/settings.json
+Calculadora/README.md
+Calculadora/.vscode/settings.json
+.gitignore
+Calculadora/src/Calculadora.java
