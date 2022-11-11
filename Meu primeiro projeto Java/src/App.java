@@ -1,6 +1,6 @@
 public class App {
-    public static void main(String[] args) throws Exception {
-        System.out.println(); {
+    public static void main(String[] args) {
+         {
             int l1 = 10;
             int l2 = 20;
             float f1 = 4.5f;
@@ -14,8 +14,11 @@ public class App {
             boolean b1 = true;
             boolean b2 = false;
 
-            System.out.println("i1 == i2" + (l1 == l2));
-            System.out.println("i1 != i2" + (l1 != l2));
+            System.out.print("i1 == i2" + (l1 == l2));
+            System.out.print("i1 != i2" + (l1 != l2));
+            System.out.print("i1 > i2" + (l1 > l2));
+            System.out.print("i1 < i2" + (l1 < l2));
+
 
 
 
